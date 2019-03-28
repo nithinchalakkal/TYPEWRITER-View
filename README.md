@@ -1,5 +1,10 @@
 # Typewriter-Textview
 How to do text writing animation? 
+In Android Development we do not have the option to use any other custom font in our default TextView in an xml layout file, except from the default Roboto font.
+
+And the choices that Android gives us are limited, by letting us set only normal, sans, serif or monospace fonts, which are usually not enough, especially when we want to customise our application.
+
+In this example we are going to make a custom Android TextView that can change its font, by customising its attributes from the xml.
 
 Usage 
 ========
